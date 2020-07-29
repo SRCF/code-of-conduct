@@ -21,7 +21,7 @@ This is a Code of Conduct for the Student-Run Computing Facility. It has been pu
 * **Be considerate.** Think about how your contribution will affect others in the community. 
 * **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing [committee@srcf.net](mailto:info@committee@srcf.net). Please include your name and a description of the incident, and we will get back to you ASAP.
+If you believe someone is violating the code of conduct, we ask that you report it by emailing [committee@srcf.net](mailto:committee@srcf.net). Please include your name and a description of the incident, and we will get back to you ASAP.
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the SRCF may take any action they deem appropriate, up to and including expulsion from all SRCF spaces and identification of the participant as a harasser to other SRCF members or the general public. 
 
